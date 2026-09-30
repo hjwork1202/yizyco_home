@@ -1,4 +1,4 @@
 # yizyco_home
-yizy &amp; co company homepage repository
+Yizy &amp; co company homepage repository
 
-owner: hanjoo.work1202@gmail.com
+Contact: hanjoo.work1202@gmail.com
